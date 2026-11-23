@@ -1,0 +1,6 @@
+{
+  "name": "桌游盒子",
+  "description": "移动端局域网桌游盒子，P2-P4玩家可通过局域网网页扫码加入，内置 UNO 与花间小路两款经典桌游。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

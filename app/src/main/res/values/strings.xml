@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">桌游盒子</string>
+    <string name="subtitle_lan_box">局域网网页联机 · 面对面桌游</string>
+    <string name="nav_hall">游戏大厅</string>
+    <string name="nav_rules">规则手册</string>
+    <string name="create_lan_room">创建局域网房间</string>
+    <string name="game_uno_title">UNO 经典纸牌</string>
+    <string name="game_uno_subtitle">2–4人 · 策略与逆转的聚会之王</string>
+    <string name="game_hanamikoji_title">花间小路</string>
+    <string name="game_hanamikoji_subtitle">2人对决 · 京都艺伎博弈与心理战</string>
+    <string name="host_label">房主 P1</string>
+    <string name="room_code_label">房间口令</string>
+    <string name="lan_url_label">局域网加入地址</string>
+    <string name="copy_link">复制链接</string>
+    <string name="copied_link">已复制局域网链接</string>
+    <string name="open_web_preview">本机网页预览</string>
+    <string name="add_bot">添加电脑玩家</string>
+    <string name="remove_player">移出座位</string>
+    <string name="start_game">开始对局</string>
+    <string name="close_room">解散房间</string>
+    <string name="back_to_lobby">返回房间</string>
+    <string name="play_again">再来一局</string>
+    <string name="uno_call">喊 UNO!</string>
+    <string name="uno_draw">摸牌</string>
+    <string name="uno_pass">跳过出牌</string>
+    <string name="hanamikoji_next_round">进入下一轮</string>
+</resources>
